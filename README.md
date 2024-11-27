@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Planetwebs
 - 👀 I’m interested in improving my skill
-- 🌱 I’m currently learning every programming
+- 🌱 I’m currently learning every programming language
 - 💞️ I’m looking to collaborate on other programmers
 - 📫 How to reach me 07066616475 kanifesopuru@gmail.com
 - 😄 Pronouns: ...
